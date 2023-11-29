@@ -22,7 +22,7 @@ And when we run the program we want to see the output in the VSCode terminal as 
 ```
 2 - When we see the screen below, press **[ENTER]** to continue
 
-![brew](installHomeBrew1.png "Install Homebrew")
+![brew1](images/installHomeBrew1.png "Install Homebrew 1")
 
 
 We can see the **brew** installation window.
@@ -30,15 +30,15 @@ We can see the **brew** installation window.
 3 - Click on **Continue** as below:
 
 
-![brew](installHomeBrew3.png "Install Homebrew")
+![brew3](images/InstallHomeBrew3.png "Install Homebrew 2")
 
 4 - Once the installation is finished, click on **Close** as below:
 
-![brew](installHomeBrew4.png "Install Homebrew")
+![brew4](images/InstallHomeBrew4.png "Install Homebrew 3")
 
 5 - To get rid of the installer file, you can click on **Move to Bin** as below:
 
-![brew](installHomeBrew5.png "Install Homebrew")
+![brew5](images/InstallHomeBrew5.png "Install Homebrew 4")
 
 
 6 - Let's go to the **brew** directory and then install **deno**. 
@@ -52,7 +52,7 @@ cd /opt/homebrew/bin
 brew install deno 
 ```
 
-![brew](installHomeBrew2.png "Install Homebrew")
+![brew](images/InstallHomeBrew2.png "Install Homebrew 5")
 
 We can update the PATH variable to include /opt/homebrew/bin 
 so that we can run the commands from that directory anywhere. 
