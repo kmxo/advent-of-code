@@ -59,14 +59,13 @@ so that we can run the commands from that directory anywhere.
 
 If you don't want to do it now, you already can use **deno** inside VSCode. 
 
-1 - Open your VSCode;
-2 - Open a VSCode terminal and go to the **deno** directory:
+1 - Open your VSCode terminal and go to the **deno** directory:
 
 ```bash
 cd /opt/homebrew/bin 
 ```
 
-3 - Run your program informing the file path and the file name:
+2 - Run your program informing the file path and the file name as the example:
 
 ```bash
 deno run "/filepath/day1.js"
